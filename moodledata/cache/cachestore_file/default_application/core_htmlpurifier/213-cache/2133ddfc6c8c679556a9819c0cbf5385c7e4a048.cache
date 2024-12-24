@@ -1,0 +1,5 @@
+s:661:"Manually configured External tool activities are no longer supported. Don't worry, this activity will still work as it is, but you can't make changes to the tool configuration here anymore.
+<br /><br />
+To make any changes to the tool, or to create new activities with it, the tool needs to be added to your course in Course &gt; More &gt; LTI External tools. Then, you will be able to create new activities, selecting the tool directly in the Activity chooser.
+<br /><br />
+You can read more about adding LTI External tools in the documentation <a href="https://docs.moodle.org/404/en/External_tool" target="_blank" rel="noreferrer noopener">External tool</a>.";

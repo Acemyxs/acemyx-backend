@@ -1,0 +1,11 @@
+O:8:"stdClass":26:{s:2:"id";s:5:"64297";s:8:"category";s:4:"4558";s:6:"parent";s:1:"0";s:4:"name";s:78:"If A = , what is A? {
+~{2, 4, 6}
+={2, 4, 6, 8}
+~{1, 3, 5, 7}
+~{2, 4, 6, 8, ...";s:12:"questiontext";s:165:"If A = , what is A? {
+~{2, 4, 6}
+={2, 4, 6, 8}
+~{1, 3, 5, 7}
+~{2, 4, 6, 8, 10}
+#### The set A includes all even numbers less than 10. These numbers are 2, 4, 6, 8.
+}";s:18:"questiontextformat";s:1:"0";s:15:"generalfeedback";s:0:"";s:21:"generalfeedbackformat";s:1:"0";s:11:"defaultmark";d:1;s:7:"penalty";d:0.3333333;s:5:"qtype";s:11:"shortanswer";s:6:"length";s:1:"1";s:5:"stamp";s:38:"academy.acemyx.com+241129115350+S5oY9q";s:11:"timecreated";s:10:"1732881230";s:12:"timemodified";s:10:"1732881230";s:9:"createdby";s:1:"2";s:10:"modifiedby";s:1:"2";s:8:"idnumber";N;s:9:"contextid";s:4:"2170";s:6:"status";s:5:"ready";s:9:"versionid";s:5:"64297";s:7:"version";s:1:"1";s:19:"questionbankentryid";s:5:"64292";s:14:"categoryobject";O:8:"stdClass":9:{s:2:"id";s:4:"4558";s:4:"name";s:4:"test";s:9:"contextid";s:4:"2170";s:4:"info";s:0:"";s:10:"infoformat";s:1:"0";s:5:"stamp";s:38:"academy.acemyx.com+241129115349+VcrPId";s:6:"parent";s:4:"2209";s:9:"sortorder";s:3:"999";s:8:"idnumber";N;}s:7:"options";O:8:"stdClass":2:{s:7:"usecase";s:1:"0";s:7:"answers";a:1:{i:247097;O:8:"stdClass":7:{s:2:"id";s:6:"247097";s:8:"question";s:5:"64297";s:6:"answer";s:36:"x | x is an even number less than 10";s:12:"answerformat";s:1:"0";s:8:"fraction";d:1;s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"0";}}}s:5:"hints";a:0:{}}

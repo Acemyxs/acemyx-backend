@@ -1,0 +1,35 @@
+s:733:"<p>Certainty-based marking requires you to indicate how reliable you think your answer is. The available levels are:</p>
+
+<table>
+<thead>
+<tr>
+  <th>Certainty level</th>
+  <th>C=1 (Unsure)</th>
+  <th>C=2 (Mid)</th>
+  <th>C=3 (Quite sure)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Mark if correct</td>
+  <td>1</td>
+  <td>2</td>
+  <td>3</td>
+</tr>
+<tr>
+  <td>Mark if wrong</td>
+  <td>0</td>
+  <td>-2</td>
+  <td>-6</td>
+</tr>
+<tr>
+  <td>Probability correct</td>
+  <td>&lt;67%</td>
+  <td>67-80%</td>
+  <td>&gt;80%</td>
+</tr>
+</tbody>
+</table>
+
+<p>Best marks are gained by acknowledging uncertainty. For example, if you think there is more than a 1 in 3 chance of being wrong, you should enter C=1 and avoid the risk of a negative mark.</p>
+";
