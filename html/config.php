@@ -6,10 +6,10 @@ $CFG = new stdClass();
 //$CFG->enableloginrecaptcha='0';
 $CFG->dbtype    = 'mysqli';
 $CFG->dblibrary = 'native';
-$CFG->dbhost    = 'localhost';
+$CFG->dbhost    = 'prod-db.cdguqikagvfv.eu-west-1.rds.amazonaws.com';
 $CFG->dbname    = 'moodle';
-$CFG->dbuser    = 'alchemy063';
-$CFG->dbpass    = 'Alchemy063Ace';
+$CFG->dbuser    = 'admin';
+$CFG->dbpass    = 'dUX:V(=j)sCa:(ZC';
 $CFG->prefix    = 'mdl_';
 $CFG->dboptions = array (
   'dbpersist' => 0,
@@ -27,7 +27,7 @@ $CFG->debugdisplay = 1; // Display Moodle debug messages
 
 $CFG->wwwroot   = 'https://academy.acemyx.com';
 //$CFG->wwwroot	= 'http://167.172.144.160';
-$CFG->dataroot  = '/var/www/moodledata';
+$CFG->dataroot  = '/var/www/html/moodledata';
 $CFG->admin     = 'admin';
 $CFG->sslproxy = true; //added recently
 $CFG->directorypermissions = 0777;

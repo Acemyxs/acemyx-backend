@@ -1,0 +1,52 @@
+s:1215:"<p>Great! You're right that matrices can be used to handle multiple variables in a system of linear equations. Let's break down the process step by step.</p>
+
+<ol>
+<li><p><strong>Formulating the System as Matrices</strong>:
+Suppose you have a system of linear equations like this:</p>
+
+<p>[
+\begin{cases}
+ax + by = e \
+cx + dy = f
+\end{cases}
+]</p></li>
+<li><p><strong>Writing in Matrix Form</strong>:</p>
+
+<p>This can be written in matrix form as (AX = B), where:</p>
+
+<ul>
+<li>(A) is the coefficient matrix,</li>
+<li>(X) is the column vector of variables,</li>
+<li>and (B) is the column vector of constants.</li>
+</ul>
+
+<p>For our example, it would look like:</p>
+
+<p>[
+ A = 
+ \begin{pmatrix}
+  a &amp; b\
+  c &amp; d
+ \end{pmatrix},
+ X =
+ \begin{pmatrix}
+  x\
+  y
+ \end{pmatrix},
+ B =
+ \begin{pmatrix}
+  e\
+  f
+ \end{pmatrix}.
+\]</p></li>
+<li><p><strong>Solving for X</strong>:</p>
+
+<p>To find (X), we need to solve for it using matrix operations. One common method involves finding the inverse of matrix A (if it exists). The solution can be expressed as:</p>
+
+<p>\
+X = A^{-1}B.
+\</p></li>
+</ol>
+
+<p>So far, does everything make sense? Do you have any questions about these steps before we proceed further?</p>
+";

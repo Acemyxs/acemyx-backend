@@ -1,0 +1,62 @@
+s:1298:"<p>Excellent! Now, let's proceed with the next steps.</p>
+
+<h3>Step-by-Step Process:</h3>
+
+<ol>
+<li><p><strong>Formulate the System in Matrix Form:</strong>
+Let's use an example system of equations:</p>
+
+<p>[
+\begin{cases}
+2x + 3y = 5 \
+4x - y = 6
+\end{cases}
+]</p></li>
+<li><p><strong>Write it as AX = B:</strong></p></li>
+</ol>
+
+<p>[
+A = 
+\begin{pmatrix}
+2 &amp; 3 \ 
+4 &amp; -1
+\end{pmatrix},
+X =
+\begin{pmatrix}
+x \ 
+y
+\end{pmatrix},
+B =
+\begin{pmatrix}
+5 \ 
+6
+\end{pmatrix}.
+]</p>
+
+<p>Thus, we have (AX = B.)</p>
+
+<ol start="3">
+<li><strong>Find the Inverse of A (if it exists):</strong></li>
+</ol>
+
+<p>The inverse of a matrix (A^{-1}) is found using various methods such as Gaussian elimination or by using the formula for a (2x2) matrix:</p>
+
+<p>For a general matrix</p>
+
+<p>[A=
+\begin{pmatrix}a&amp;b\c&amp;d\
+    \end { pmatrix},<br />
+    A ^ {-1}=\frac {1}{ad-bc}\cdot<br />
+        {\displaystyle {\ begin { pmatrix } d &amp;- b \- c &amp;a\ end { pmathrix}}}.<br />
+        ]}</p>
+
+<p>Applying this to our coefficient matrix</p>
+
+<p>[A=
+{\displaystyle {\ begin { pmatix } d &amp;- b&amp;=<br />
+{\displaystyle {\ begn( mathrix ) }
+(-1)&amp; (-3)}<br />
+-(4)&amp;(2)\cdot...}}</p>
+
+<p>What do you think "ad-bc" represents here? And can you calculate its value for our given matrix?</p>
+";
